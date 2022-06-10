@@ -3,6 +3,7 @@
   "version": "0.0.1",
   "description": "create node express api starter template",
   "main": "index.js",
+  "bin": "./bin/cnea.js",
   "scripts": {
     "dev": "nodemon index.js",
     "start": "node index.js",
